@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">lab2</string>
+    <string name="hint_surface">Surface (m²)</string>
+    <string name="hint_pieces">Nombre de pièces</string>
+    <string name="label_piscine">Piscine</string>
+    <string name="button_calculer">Calculer</string>
+    <string name="error_empty_fields">Veuillez remplir tous les champs !</string>
+    <string name="error_invalid_values">Surface et pièces doivent être > 0 !</string>
+    <string name="result_format">Total : %.2f DH</string>
+    <string name="signature_mouad">Réalisé par Mouad Charraj aka Z3R0-XR7</string>
+</resources>
