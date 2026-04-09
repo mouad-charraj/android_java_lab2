@@ -10,18 +10,12 @@ Ce projet est le deuxième laboratoire pratique du module de développement mobi
 ## Fonctionnalités
 L'application propose une interface interactive avec les éléments suivants :
 
-
-Saisie de la Surface : Un champ de texte permettant à l’utilisateur d’entrer la surface du logement.
-
-Saisie du Nombre de Pièces : Un champ dédié à la saisie du nombre de pièces.
-
-Option Piscine : Une case à cocher pour indiquer la présence d’une piscine.
-
-Action "Calculer" : Un bouton permettant de lancer le calcul du montant total.
-
-Affichage du Résultat : Une zone de texte pour afficher le résultat du calcul.
-
-Validation des Données : Vérification des champs saisis afin d’assurer que les valeurs sont valides.
+* Saisie de la Surface : Un champ de texte permettant à l’utilisateur d’entrer la surface du logement.
+* Saisie du Nombre de Pièces : Un champ dédié à la saisie du nombre de pièces.
+* Option Piscine : Une case à cocher pour indiquer la présence d’une piscine.
+* Action "Calculer" : Un bouton permettant de lancer le calcul du montant total.
+* Affichage du Résultat : Une zone de texte pour afficher le résultat du calcul.
+* Validation des Données : Vérification des champs saisis afin d’assurer que les valeurs sont valides.
 
 ## Technologies Utilisées
 - Java
